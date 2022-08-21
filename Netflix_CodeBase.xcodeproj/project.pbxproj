@@ -21,6 +21,7 @@
 		49D982F628B13DD600D4954B /* MainScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D982F528B13DD600D4954B /* MainScreenViewController.swift */; };
 		49D982F828B13DDF00D4954B /* MainScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D982F728B13DDF00D4954B /* MainScreenView.swift */; };
 		49D9830028B163E700D4954B /* BottomPosterButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D982FF28B163E700D4954B /* BottomPosterButtonStyle.swift */; };
+		49D9830228B2530700D4954B /* TextFieldStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D9830128B2530700D4954B /* TextFieldStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		49D982F528B13DD600D4954B /* MainScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenViewController.swift; sourceTree = "<group>"; };
 		49D982F728B13DDF00D4954B /* MainScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenView.swift; sourceTree = "<group>"; };
 		49D982FF28B163E700D4954B /* BottomPosterButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomPosterButtonStyle.swift; sourceTree = "<group>"; };
+		49D9830128B2530700D4954B /* TextFieldStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				49D982F128B13DBC00D4954B /* LoginScreenViewController.swift */,
 				49D982F328B13DCB00D4954B /* LoginScreenView.swift */,
+				49D9830128B2530700D4954B /* TextFieldStyle.swift */,
 			);
 			path = LoginScreen;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				49D982F828B13DDF00D4954B /* MainScreenView.swift in Sources */,
 				49D982ED28B138DA00D4954B /* BaseView.swift in Sources */,
 				49D982F628B13DD600D4954B /* MainScreenViewController.swift in Sources */,
+				49D9830228B2530700D4954B /* TextFieldStyle.swift in Sources */,
 				49D9830028B163E700D4954B /* BottomPosterButtonStyle.swift in Sources */,
 				49D982D428B1370F00D4954B /* AppDelegate.swift in Sources */,
 				49D982D628B1370F00D4954B /* SceneDelegate.swift in Sources */,

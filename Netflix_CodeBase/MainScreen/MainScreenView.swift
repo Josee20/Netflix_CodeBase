@@ -10,7 +10,9 @@ import SnapKit
 
 class MainScreenView: BaseView {
     
-    var backgroundPosterImage: UIImageView = {
+    
+    
+    let backgroundPosterImage: UIImageView = {
         let view = UIImageView()
         view.image = UIImage(named: "어벤져스엔드게임")
         return view
